@@ -1,0 +1,6 @@
+title: Queue Management Application
+description: A multi-platform queue management system developed for the Inter University Hackathon (3rd Place). Utilized Flutter for mobile, Django for backend, and React for the admin dashboard.
+image: https://images.unsplash.com/photo-1542751371-adc38448a05e?q=80&w=1587&auto=format&fit=crop
+url: "#"
+tags: ["Flutter", "Django", "React", "PostgreSQL"]
+date: "2023"

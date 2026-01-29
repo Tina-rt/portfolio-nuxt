@@ -1,0 +1,6 @@
+title: Microservice Architecture for Ecommerce
+description: Rebuilding the backend of a Node.js application into a microservice architecture using NestJS and deployed on AWS. Focuses on scalability, independent service deployment, and robust communication between services.
+image: https://images.unsplash.com/photo-1558494949-ef010cbdcc51?q=80&w=1587&auto=format&fit=crop
+url: "#"
+tags: ["NestJS", "Microservices", "AWS", "Node.js"]
+date: "2025"

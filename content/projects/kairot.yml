@@ -1,0 +1,6 @@
+title: Kairot - Audio to Text SaaS
+description: A full-stack transcription service featuring a Flask backend, Nuxt frontend, Firebase for authentication and storage, and Gemini API integration for advanced audio processing and summarization.
+image: https://images.unsplash.com/photo-1589254065878-42c9da997008?q=80&w=1587&auto=format&fit=crop
+url: "#"
+tags: ["Nuxt", "Flask", "Firebase", "Gemini API"]
+date: "2024"

@@ -18,9 +18,7 @@ useHead({
 })
 
 useSeoMeta({
-  titleTemplate: '%s - Nuxt Portfolio Template',
-  ogImage: 'https://ui.nuxt.com/assets/templates/nuxt/portfolio-light.png',
-  twitterImage: 'https://ui.nuxt.com/assets/templates/nuxt/portfolio-light.png',
+  titleTemplate: '%s - Tina Hubert Ratolojanahary',
   twitterCard: 'summary_large_image'
 })
 
@@ -52,13 +50,8 @@ const [{ data: navigation }, { data: files }] = await Promise.all([
     </NuxtLayout>
 
     <ClientOnly>
-      <LazyUContentSearch
-        :files="files"
-        :navigation="navigation"
-        shortcut="meta_k"
-        :links="navLinks"
-        :fuse="{ resultLimit: 42 }"
-      />
+      <LazyUContentSearch :files="files" :navigation="navigation" shortcut="meta_k" :links="navLinks"
+        :fuse="{ resultLimit: 42 }" />
     </ClientOnly>
   </UApp>
 </template>
