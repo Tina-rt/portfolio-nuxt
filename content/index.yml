@@ -1,6 +1,6 @@
 seo:
   title: "Tina Hubert RATOLOJANAHARY - Software Developer"
-  description: "Software developer with 2+ years in frontend/full-stack development. Proficient in TypeScript, Python, Vue.js, and NuxtJS."
+  description: "Software developer with 3 years in frontend/full-stack development. Proficient in TypeScript, Python, Vue.js, and NuxtJS."
 title: "Hey, I'm Tina Hubert Software Developer"
 description: "I craft modern web applications and scalable backends. Based in Madagascar, bringing ideas to life through code and creativity."
 hero:
@@ -13,28 +13,28 @@ hero:
       color: "neutral"
       variant: "outline"
   images:
-    - src: /hero/random-1.avif
-      alt: Random Image 1
-    - src: /hero/random-2.avif
-      alt: Random Image 2
-    - src: /hero/random-3.avif
-      alt: Random Image 3
-    - src: /hero/random-4.avif
-      alt: Random Image 4
-    - src: /hero/random-5.avif
-      alt: Random Image 5
-    - src: /hero/random-6.avif
-      alt: Random Image 6
-    - src: /hero/random-7.avif
-      alt: Random Image 7
-    - src: /hero/random-8.avif
-      alt: Random Image 8
-    - src: /hero/random-9.avif
-      alt: Random Image 9
+    - src: https://i.postimg.cc/SsjKQBfC/vibeoo-screenshot.png
+      alt: Vibeoo
+    - src: https://i.postimg.cc/PxMMh8KH/Screenshot-2026-08-26-at-22-31-30.png
+      alt: MyBentoo
+    - src: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTswGjuBT0lXNRzvuHfGSHL4onktCegbJ7Q21DQYTtBOA&s=10
+      alt: Microservice Architecture for Ecommerce
+    # - src: /hero/random-4.avif
+    #   alt: Random Image 4
+    # - src: /hero/random-5.avif
+    #   alt: Random Image 5
+    # - src: /hero/random-6.avif
+    #   alt: Random Image 6
+    # - src: /hero/random-7.avif
+    #   alt: Random Image 7
+    # - src: /hero/random-8.avif
+    #   alt: Random Image 8
+    # - src: /hero/random-9.avif
+    #   alt: Random Image 9
 about:
   title: "About Me"
   description: |
-    Software developer with 2+ years of experience in frontend and full-stack development. 
+    Software developer with 3 years of experience in frontend and full-stack development. 
     I specialize in building performant web applications using Vue.js, NuxtJS, and TypeScript, while also being proficient in Python and backend technologies.
     Currently seeking international opportunities to grow and contribute to innovative projects.
 experience:
@@ -43,10 +43,9 @@ experience:
     - position: "Frontend VueJS Developer"
       date: "2023 - Present"
       company:
-        name: "The Greenshot"
-        logo: "i-simple-icons-vuedotjs"
-        url: "https://thegreenshot.com"
-        color: "#42b883"
+        name: "Neoshore"
+        url: "https://neoshore.eu/"
+        color: "#2A0080"
     - position: "Python Data Scraper"
       date: "2025"
       company:
@@ -84,8 +83,8 @@ skills:
           icon: "i-simple-icons-vuedotjs"
         - name: "NuxtJS"
           icon: "i-simple-icons-nuxtdotjs"
-        - name: "Django"
-          icon: "i-simple-icons-django"
+        - name: "React Native"
+          icon: "i-simple-icons-react"
         - name: "FastAPI"
           icon: "i-simple-icons-fastapi"
         - name: "ExpressJS"
