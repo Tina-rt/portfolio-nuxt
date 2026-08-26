@@ -18,6 +18,15 @@ export default defineNuxtConfig({
 
   compatibilityDate: '2024-11-01',
 
+  image: {
+    domains: [
+      'i.postimg.cc',
+      'encrypted-tbn0.gstatic.com',
+      'images.pexels.com',
+      'images.unsplash.com'
+    ]
+  },
+
   nitro: {
     prerender: {
       routes: [

@@ -128,8 +128,15 @@ defineProps<{
           duration: 0.6,
           delay: index * 0.1
         }">
-        <NuxtImg width="234" height="234" class="rounded-lg aspect-square object-cover"
-          :class="index % 2 === 0 ? '-rotate-2' : 'rotate-2'" v-bind="img" />
+        <img
+          :src="img.src"
+          :alt="img.alt"
+          width="234"
+          height="234"
+          loading="lazy"
+          class="rounded-lg aspect-square object-cover"
+          :class="index % 2 === 0 ? '-rotate-2' : 'rotate-2'"
+        />
       </Motion>
     </UMarquee>
   </UPageHero>
